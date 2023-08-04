@@ -1,23 +1,13 @@
-# IMPORTANT LINK FOR PROJECT
+# About Kryptonite
 
-@theblockchaincoders
+Kryptonite is a web3 wallet designed to provide the users with the facility and a user-friendly interface to send cryptocurrencies accross the different networks. Although the project is now in its early starges, kryptonite provides a lot of the facilities which other prominent crypto wallets do.
 
-Build your web3 Dapp "MetaMask clone", in which you can provide users to create their own Metakmask wallet.
+## Frameworks/Tools Used
+* HTML
+* CSS
+* Javascript(Node Js)
+* MongoDB
+* Ethers.Js
 
-Watch the video: https://youtu.be/p04GRmC7rA0
-
-Resource
-
-Final-Code: https://www.theblockchaincoders.com/sourceCode/build-metamask-clone-chrome-extension-form-scratch
-
-Starter-file: [https://github.com/daulathussain/nfts-api-starter-file](https://github.com/daulathussain/metamask-starter-file)
-
-Get Pro Course "AI Movie APP": https://bit.ly/AI-Movie-App-Course
-
-Support Creator: https://bit.ly/Support-Creator
-
-All Projects Source Code: https://www.theblockchaincoders.com/SourceCode
-
-Official Website: https://www.theblockchaincoders.com
-
-Book 1 -1 Appointment: https://bit.ly/Book-1-1-Appointment
+## Future Plans 
+Kryptonite is open to all contributions and collaborations from other developers. So feel free to update/add any features to this promising crypto project. Happy Coding !!!
